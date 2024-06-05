@@ -47,9 +47,7 @@ const CardButton = styled.a`
   }
 `;
 
-const image = 
-const title =
-const description =
+
 
 
 
