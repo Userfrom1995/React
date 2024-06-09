@@ -47,7 +47,11 @@ const CardButton = styled.a`
   }
 `;
 
-
+var image = "https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg";
+var title = "Card Title";
+var description = "This is a description of the card";
+var buttonLink = "https://www.google.com";
+var buttonText = "Go to Google";
 
 
 
@@ -71,4 +75,4 @@ function Card(){
     );
 };
 
-export default App
+export default Card;
